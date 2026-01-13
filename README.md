@@ -1,5 +1,6 @@
 # TensorPP
 Autor: Hector Emilio Huaman Puiquin
+
 Una librería en C++ inspirada en bibliotecas como Numpy.
 
 ## Instrucciones de ejecución
